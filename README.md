@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...gym
 - 🌱 I’m currently learning ...nutricão 
 - 😄 Pronouns: ...ele/dele
-- ⚡ esportes: ... vôlei 
+- ⚡ esportes: ... vôlei
+- 🍕 comida favorita: hambúrguer 
 
 <!---
 Nicolasalmeida123/Nicolasalmeida123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
