@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nicolas
 - 👀 I’m interested in ...gym
-- 🌱 I’m currently learning ...nutricão 
+- 🌱 I’m currently learning ...ed física 
 - 😄 Pronouns: ...ele/dele
 - ⚡ esportes: ... vôlei
 - 🍕 comida favorita: hambúrguer 
