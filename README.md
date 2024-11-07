@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...gym
 - 🌱 I’m currently learning ...ed física 
 - 😄 Pronouns: ...ele/dele
-- ⚡ esportes: ... vôlei.
+- ⚡ esportes: ... vôlei e volei de praia
 - 🍕 comida favorita: hambúrguer e pizza e amendoim .
 
 <!---
